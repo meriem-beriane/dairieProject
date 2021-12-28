@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.projectdairies">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProjectDairies">
+        <activity
+            android:name=".signInPage"
+            android:exported="false" />
+        <activity
+            android:name=".searchResult"
+            android:exported="true" />
+        <activity
+            android:name=".editDairie"
+            android:exported="true" />
+        <activity
+            android:name=".searchPage"
+            android:exported="true" />
+        <activity
+            android:name=".allDairies"
+            android:exported="true" />
+        <activity
+            android:name=".dairiePage"
+            android:exported="true" />
+        <activity
+            android:name=".passwordPage"
+            android:exported="true" />
+        <activity
+            android:name=".homePage"
+            android:exported="true" />
+    </application>
+
+</manifest>

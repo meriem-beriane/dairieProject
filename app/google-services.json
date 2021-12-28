@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641579936619",
+    "project_id": "darieproject",
+    "storage_bucket": "darieproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641579936619:android:8cec11884e02d5638efa2e",
+        "android_client_info": {
+          "package_name": "com.example.projectdairies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641579936619-3nddbbdcds810c05qv2q68ne5uu8itst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectdairies",
+            "certificate_hash": "a8a9cc8b48d8806cdd18bf527e78f531d55e29cb"
+          }
+        },
+        {
+          "client_id": "641579936619-1uvk21ffsuh8bsk6pomk3dv5229qsf2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6krAEHwM85h5HQGseG_JzEqMrjssov74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641579936619-1uvk21ffsuh8bsk6pomk3dv5229qsf2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
